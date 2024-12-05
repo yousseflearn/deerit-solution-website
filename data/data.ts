@@ -3,7 +3,7 @@ export const BaseInfo = {
   position: 'Information Technology Company.',
   description:
     'Web and Mobile Application Development.Networking and Telecom.Software and hardware Services.Everything you could possibly want it to do and not only that, beautifully carefully designed.',
-  profilePic: '/images/hero.png',
+  profilePic: '/images/hero.jpg',
 };
 
 export const aboutInfo = {
