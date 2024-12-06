@@ -9,7 +9,7 @@ export const BaseInfo = {
 export const aboutInfo = {
   title: 'Crafting Web Application with Passion and Precision',
   description:
-    'At DeerIT Team, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals',
+    'At DeerIT Team, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals.',
   client: '50+',
   experience: '5+',
   project: '200+',
