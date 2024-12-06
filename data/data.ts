@@ -74,42 +74,42 @@ export const servicesData = [
 export const projectData = [
   {
     id: 1,
-    image: '/images/p1.png',
+    image: '/images/pt1.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 2,
-    image: '/images/p2.png',
+    image: '/images/pt2.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 3,
-    image: '/images/p3.png',
+    image: '/images/pt3.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 4,
-    image: '/images/p4.png',
+    image: '/images/pt4.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 5,
-    image: '/images/p5.png',
+    image: '/images/pt5.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 6,
-    image: '/images/p6.png',
+    image: '/images/pt6.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 7,
-    image: '/images/p7.png',
+    image: '/images/pt7.png',
     url: 'https://www.deerit.net',
   },
   {
     id: 8,
-    image: '/images/p8.png',
+    image: '/images/pt8.png',
     url: 'https://www.deerit.net',
   },
 ];
