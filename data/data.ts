@@ -215,33 +215,33 @@ export const clientReviews = [
 export const blogs = [
   {
     id: 1,
-    title: 'Top Web Development Trends to Watch in 2024',
+    title: 'TWhy choose NextJS over ReactJS?',
     summary:
-      'Explore the key web development trends for 2024 and their impact on your business.',
-    date: 'August 18, 2024',
-    image: '/images/b1.jpg',
+      'Is NextJS good for big projects? Next. js is suitable for projects of all sizes. It offers a streamlined development experience for small projects and powerful tools for managing complexity in large-scale applications.',
+    date: 'December 8th, 2024',
+    image: '/images/b11.jpeg',
   },
   {
     id: 2,
-    title: 'Why Your Business Needs a Custom Web Application',
+    title: 'What is the JavaScript used for?',
     summary:
-      'Discover why custom web applications are crucial for driving business growth and efficiency.',
-    date: 'August 10, 2024',
-    image: '/images/b2.jpg',
+      'JavaScript is a programming language used for creating dynamic content on websites. It is a lightweight, cross-platform, and single-threaded ... ',
+    date: 'December 8th, 2024',
+    image: '/images/b22.jpg',
   },
   {
     id: 3,
-    title: 'The Importance of Website Speed Optimization',
+    title: 'What are the benefits of coffee beans?',
     summary:
-      'Understand how website speed impacts user experience and learn essential optimization tips.',
-    date: 'July 25, 2024',
-    image: '/images/b3.jpg',
+      'Coffee contains a number of useful nutrients, including riboflavin (vitamin B2), niacin (vitamin B3), magnesium, potassium, and various phenolic compounds, or antioxidants.',
+    date: 'August 25, 2024',
+    image: '/images/b33.jpg',
   },
 ];
 
 export const contactData = {
   phone: '+971(545109920)',
   email: 'contact@deerit.net',
-  address:
-    'VD-Ground Floor Accelerator Building,Masdar City,Abu Dhabi,United Arab Emirates',
+  address1: 'VD-Ground Floor Accelerator Building',
+  address2: 'Masdar City,Abu Dhabi,United Arab Emirates',
 };
