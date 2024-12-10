@@ -12,4 +12,23 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  /* WebKit browsers */
+  .custom-scrollBar::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  .custom-scrollBar::-webkit-scrollbar-track {
+    background: #44028f;
+  }
+  .custom-scrollBar::-webkit-scrollbar-thumb {
+    background: #c277fa;
+    border-radius: 4px;
+  }
+
+  /* Firefox */
+  .custom-scrollBar {
+    scrollbar-width: 10px;
+    scrollbar-color: #c277fa #44028f;
+  }
 }
